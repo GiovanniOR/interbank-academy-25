@@ -37,7 +37,7 @@ El archivo debe tener la siguiente estructura
 
 ## Estructura del proyecto:
 
-|
-|-main.py
-|-README.md
-|-<Archivo de datos .csv (1 o +)>
+- |
+- |-main.py
+- |-README.md
+- |-<Archivo de datos .csv (1 o +)>
